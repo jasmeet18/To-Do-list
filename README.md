@@ -22,6 +22,6 @@ A simple, elegant, and responsive **To-Do List Web App** built with **HTML, CSS,
 
 ## 📂 File Structure
 
-├── index.html # Main HTML page
-├── style.css # Styling file
-└── script.js # Application logic
+index.html # Main HTML page
+style.css # Styling file
+script.js # Application logic
