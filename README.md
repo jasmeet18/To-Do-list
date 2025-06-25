@@ -11,9 +11,6 @@ A simple, elegant, and responsive **To-Do List Web App** built with **HTML, CSS,
 - 🎨 Clean and responsive UI using pure CSS
 - 💻 Vanilla JavaScript (no frameworks)
 
-## 🖥️ Live Preview
-
-> _(Optional: Add GitHub Pages or hosted link here)_
 
 ## 🛠️ Tech Stack
 
@@ -22,3 +19,9 @@ A simple, elegant, and responsive **To-Do List Web App** built with **HTML, CSS,
 - JavaScript (ES6)
 
 
+
+## 📂 File Structure
+
+├── index.html # Main HTML page
+├── style.css # Styling file
+└── script.js # Application logic
